@@ -1,0 +1,12 @@
+{
+	"title": "MinuteMap",
+	"type": "tool",
+	"tags": ["fun", "scenic"],
+	"ignore":
+		[
+			"*.psd",
+			"*.vcpro",
+			"*.svn",
+			"*.db"
+		]
+}
